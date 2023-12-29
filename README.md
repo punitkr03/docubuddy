@@ -1,7 +1,7 @@
 <div>
-⚠️ I used all the openai credits in dev so I have to disable the chat in production build and it will show pages exceeded always.
-⚠️ I also disabled stripe as I don't intend to accept real payments but the pricing page will still be visible.
-✅ Uploading files will still work till i hit my free limit XD.
+⚠️ I used all the openai credits in dev so I have to disable the chat in production build and it will show pages exceeded always.<br/>
+⚠️ I also disabled stripe as I don't intend to accept real payments but the pricing page will still be visible.<br/>
+✅ Uploading files will still work till i hit my free limit XD.<br/>
 </div>
 
 
