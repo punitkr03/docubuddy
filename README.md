@@ -6,7 +6,7 @@
 
 
 # DocuBuddy
-DocQuery is an intelligent SaaS application designed to streamline information retrieval from documents. This powerful tool leverages advanced natural language processing (NLP) and machine learning algorithms to efficiently answer user queries from a variety of document formats. Whether you're dealing with extensive reports, technical documents, or knowledge repositories, DocQuery simplifies the search and extraction process, saving valuable time and enhancing productivity.
+DocuBuddy is an intelligent SaaS application designed to streamline information retrieval from documents. This powerful tool leverages advanced natural language processing (NLP) and machine learning algorithms to efficiently answer user queries from a variety of document formats. Whether you're dealing with extensive reports, technical documents, or knowledge repositories, DocQuery simplifies the search and extraction process, saving valuable time and enhancing productivity.
 
 # Tech Stack
 - Next.js
